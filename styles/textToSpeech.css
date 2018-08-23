@@ -1,0 +1,24 @@
+body{
+    background-image: url(../images/Infotainment_04.png);
+    background-size: 100%;
+    background-position: center;
+}
+.form{
+    margin-left: 500px;
+    margin-top: 100px;
+    margin-right: 500px;
+    padding-top: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #00ff40;
+}
+.speak{
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
